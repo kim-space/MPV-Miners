@@ -21,6 +21,14 @@
 - 开箱即用
 - 远程设置
 
+
+### 使用
+- 运行软件安装安装运行
+- 打开浏览器访问服务器18848端口 http://ip:18848
+- 默认登录密钥：88888888
+
+
+
 ### 软件截图
 
 <img width="1680" alt="Snipaste_2022-02-25_23-14-45" src="https://user-images.githubusercontent.com/17792707/155743649-d74ff004-1e0e-4a64-ac1e-afcdc4f4ebcd.png">
